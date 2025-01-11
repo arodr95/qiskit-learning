@@ -1,4 +1,4 @@
-# Learnings in Qiskit 
+# Qiskit Learning
 ## Quantum Computing Fundamentals
 *LinkedIn Learning - Olivia Chiu Stone & Barron Stone* 
 
