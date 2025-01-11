@@ -9,3 +9,4 @@
 3. [Puali-X Gate](https://github.com/arodr95/qiskit-learning/blob/main/3_pauli_x_gate.ipynb)
 4. [Puali-Y Gate](https://github.com/arodr95/qiskit-learning/blob/main/4_pauli_y_gate.ipynb)
 5. [Pauli-Z Gate](https://github.com/arodr95/qiskit-learning/blob/main/5_pauli_z_gate.ipynb)
+6. [Binary Numbers Challenge](https://github.com/arodr95/qiskit-learning/blob/main/6_binary_numbers_challenge.ipynb)
