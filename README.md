@@ -1,7 +1,7 @@
 # Quantum Computing Learnings in Qiskit
 ## Quantum Computing Fundamentals
-*by Olivia Chiu Stone and Barron Stone* 
-*LinkedIn Learning*
+*LinkedIn Learning - Olivia Chiu Stone and Barron Stone* 
+
 
 ## Table of Contents
 1. [Superposition](https://github.com/arodr95/qiskit-learning/blob/main/1_superposition.ipynb)
