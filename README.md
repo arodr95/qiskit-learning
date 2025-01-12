@@ -17,3 +17,4 @@
 13. [CNOT Gate: $`CX`$ ](https://github.com/arodr95/qiskit-learning/blob/main/13_cnot_gate.ipynb)
 14. [Toffoli Gate: $`CCX`$ ](https://github.com/arodr95/qiskit-learning/blob/main/14_toffoli_gate.ipynb)
 15. [SWAP and Fredkin Gates: SWAP, CSWAP](https://github.com/arodr95/qiskit-learning/blob/main/15_swap_and_fredkin_gates.ipynb)
+16. [Classical Two Bit Adder Challenge](https://github.com/arodr95/qiskit-learning/blob/main/16_classical_two_bit_adder_challenge.ipynb)
