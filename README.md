@@ -12,4 +12,4 @@
 6. [Binary Numbers Challenge](https://github.com/arodr95/qiskit-learning/blob/main/6_binary_numbers_challenge.ipynb)
 7. [Hadamard Gate: $H$](https://github.com/arodr95/qiskit-learning/blob/main/7_hadamard_gate.ipynb)
 8. [Arbitrary Basis Measurements](https://github.com/arodr95/qiskit-learning/blob/main/8_arbitrary_basis_measurements.ipynb)
-9. [Phase Shift Gates: $S, S^\dagger, T, T^\dagger$]()
+9. [Phase Shift Gates: $S, S^\dagger, T, T^\dagger$](https://github.com/arodr95/qiskit-learning/blob/main/9_phase_shift_gates.ipynb)
