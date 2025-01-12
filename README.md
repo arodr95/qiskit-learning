@@ -11,3 +11,4 @@
 5. [Pauli-Z Gate](https://github.com/arodr95/qiskit-learning/blob/main/5_pauli_z_gate.ipynb)
 6. [Binary Numbers Challenge](https://github.com/arodr95/qiskit-learning/blob/main/6_binary_numbers_challenge.ipynb)
 7. [Hadamard Gate](https://github.com/arodr95/qiskit-learning/blob/main/7_hadamard_gate.ipynb)
+8. [Arbitrary Basis Measurements](https://github.com/arodr95/qiskit-learning/blob/main/8_arbitrary_basis_measurements.ipynb)
