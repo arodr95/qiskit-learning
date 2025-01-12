@@ -12,3 +12,4 @@
 8. [Arbitrary Basis Measurements](https://github.com/arodr95/qiskit-learning/blob/main/08_arbitrary_basis_measurements.ipynb)
 9. [Phase Shift Gates: $`S, S^\dagger, T, T^\dagger`$ ](https://github.com/arodr95/qiskit-learning/blob/main/09_phase_shift_gates.ipynb)
 10. [Parameterized Rotation Gates](https://github.com/arodr95/qiskit-learning/blob/main/10_parameterized_rotation_gates.ipynb)
+11. [Kronecker Product: $`\otimes`$ ](https://github.com/arodr95/qiskit-learning/blob/main/11_kronecker_product.ipynb)
