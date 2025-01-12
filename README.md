@@ -16,3 +16,4 @@
 12. [Random Numbers Challenge](https://github.com/arodr95/qiskit-learning/blob/main/12_random_numbers_challenge.ipynb)
 13. [CNOT Gate: $`CX`$ ](https://github.com/arodr95/qiskit-learning/blob/main/13_cnot_gate.ipynb)
 14. [Toffoli Gate: $`CCX`$ ](https://github.com/arodr95/qiskit-learning/blob/main/14_toffoli_gate.ipynb)
+15. [SWAP and Fredkin Gates: SWAP, CSWAP](https://github.com/arodr95/qiskit-learning/blob/main/15_swap_and_fredkin_gates.ipynb)
