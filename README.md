@@ -13,3 +13,4 @@
 9. [Phase Shift Gates: $`S, S^\dagger, T, T^\dagger`$ ](https://github.com/arodr95/qiskit-learning/blob/main/09_phase_shift_gates.ipynb)
 10. [Parameterized Rotation Gates](https://github.com/arodr95/qiskit-learning/blob/main/10_parameterized_rotation_gates.ipynb)
 11. [Kronecker Product: $`\otimes`$ ](https://github.com/arodr95/qiskit-learning/blob/main/11_kronecker_product.ipynb)
+12. [Random Numbers Challenge](https://github.com/arodr95/qiskit-learning/blob/main/12_random_numbers_challenge.ipynb)
