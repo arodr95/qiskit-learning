@@ -19,3 +19,4 @@
 15. [SWAP and Fredkin Gates: SWAP, CSWAP](https://github.com/arodr95/qiskit-learning/blob/main/15_swap_and_fredkin_gates.ipynb)
 16. [Classical Two Bit Adder Challenge](https://github.com/arodr95/qiskit-learning/blob/main/16_classical_two_bit_adder_challenge.ipynb)
 17. [Entanglement](https://github.com/arodr95/qiskit-learning/blob/main/17_entanglement.ipynb)
+18. [Entanglement Challenges](https://github.com/arodr95/qiskit-learning/blob/main/18_entanglement_challenges.ipynb)
